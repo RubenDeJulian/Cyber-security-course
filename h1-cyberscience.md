@@ -99,9 +99,9 @@ $$\text{Estimated Annual Cost} = \text{Annual Likelihood} \times \text{Financial
 
 Al-Sada, B. & Sadighian, A. 2024. MITRE ATT&CK: State of the Art and Way Forward. ACM Computing Surveys, 57, 1, article 12, pp. 1–37. https://doi.org/10.1145/3687300.
 
-Karvinen, T. 2025. Start Your Research with a Review Article. URL: https://terokarvinen.com/review-article/. Accessed: 27 October 2026.
+Karvinen, T. 2025. Start Your Research with a Review Article. URL: https://terokarvinen.com/review-article/. Accessed: 26 October 2026.
 
-Karvinen, T. 2026. Cyber Security - 2026 late autumn. URL: https://terokarvinen.com/. Accessed: 27 October 2026.
+Karvinen, T. 2026. Cyber Security - 2026 late autumn. URL: https://terokarvinen.com/. Accessed: 26 October 2026.
 
 ---
 
